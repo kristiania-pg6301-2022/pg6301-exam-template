@@ -12,6 +12,15 @@
 * Les de funksjonelle kravene grundig og test at løsningen din oppfyller dem
 * Les læringsmålene beskrevet i eksamensteksten grundig og sjekk at løsningen din demonstrere at du behersker disse
 
+Dette er versjonene vi brukte under forelesningene om som er validert som ok:
+
+```
+"jest": "^27.5.1",
+"react": "^17.0.2",
+"react-dom": "^17.0.2",
+"react-router-dom": "^6.2.2"
+```
+
 
 ## Egenutfylling av funksjonelle krav
 
